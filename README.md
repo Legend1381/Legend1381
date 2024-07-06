@@ -8,7 +8,9 @@
 <h2>:zany_face: Random Dev Joke</h2>
  <a href="https://github.com/ABSphreak/readme-jokes">
         <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
-    </a>
+</a>
+
+<img src="https://raw.githubusercontent.com/Legend1381/Legend1381/output/snake.svg" alt="Snake animation" />
 
 <!--
 **Legend1381/Legend1381** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
