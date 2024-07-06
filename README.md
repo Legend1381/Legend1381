@@ -20,13 +20,6 @@
 
 ###
 
-<h2>:zany_face: Random Dev Joke</h2>
- <a href="https://github.com/ABSphreak/readme-jokes">
-        <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
-</a>
-
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Legend1381/Legend1381/blob/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Legend1381/Legend1381/blob/output/github-contribution-grid-snake.svg" />
@@ -34,6 +27,14 @@
 </picture>
 
 ###
+
+<h2>:zany_face: Random Dev Joke</h2>
+ <a href="https://github.com/ABSphreak/readme-jokes">
+        <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
+</a>
+
+###
+
 
 <!--
 **Legend1381/Legend1381** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
