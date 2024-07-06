@@ -5,8 +5,8 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%2300A3C6&size=30&center=true&vCenter=true&width=450&lines=I'm+Mostafa+a.k.a.+Legend;he/him;Computer+Engineering+Student;Frontend+Dev;UI/UX+Designer;Graphic+Designer;" alt="Computer Engineering Student,front-end developer, grphic designer, ui ux designer"></a>
 </div>
 
-<img src="https://raw.githubusercontent.com/Legend1381/Legend1381/output/snake.svg" alt="Snake animation" />
-
+###
+<h3 align="left">😎My Stats :</h3>
 ###
 
 <br clear="both">
