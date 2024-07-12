@@ -6,10 +6,24 @@
 </div>
 
 <img width="36" height="36" src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/36/external-vuejs-an-open-source-javascript-framework-for-building-user-interfaces-and-single-page-applications-logo-green-tal-revivo.png" alt="external-vuejs-an-open-source-javascript-framework-for-building-user-interfaces-and-single-page-applications-logo-green-tal-revivo"/>
-<img width="100" height="100" src="https://img.icons8.com/clouds/100/python.png" alt="python"/>
+
+<h2 align="left">About Me:</h2>
+
+<h2 align="left">🛠 Actively Working With:</h2>
+<div align="left">
+    <img width="100" height="100" src="https://img.icons8.com/dusk/100/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/>
+    <img width="100" height="100" src="https://img.icons8.com/dusk/100/javascript-logo.png" alt="javascript-logo"/>
+    <img width="100" height="100" src="https://img.icons8.com/dusk/100/html-5.png" alt="html-5"/>
+    <img width="100" height="100" src="https://img.icons8.com/dusk/100/css3.png" alt="css3"/>
+</div>
+
+
+<h2 align="left">Learning:</h2>
+
+<h2 align="left">Plan To Learn:</h2>
 
 ###
-<h2 align="left">😎My Stats :</h2>
+<h2 align="left">😎My Stats:</h2>
 
 
 <br clear="both">
