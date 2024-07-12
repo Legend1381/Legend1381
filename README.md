@@ -5,20 +5,35 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%2300A3C6&size=30&center=true&vCenter=true&width=450&lines=I'm+Mostafa+a.k.a.+Legend;he/him;Computer+Engineering+Student;Frontend+Dev;UI/UX+Designer;Graphic+Designer;" alt="Computer Engineering Student,front-end developer, grphic designer, ui ux designer"></a>
 </div>
 
-<img width="36" height="36" src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/36/external-vuejs-an-open-source-javascript-framework-for-building-user-interfaces-and-single-page-applications-logo-green-tal-revivo.png" alt="external-vuejs-an-open-source-javascript-framework-for-building-user-interfaces-and-single-page-applications-logo-green-tal-revivo"/>
+
 
 <h2 align="left">About Me:</h2>
 
 <h2 align="left">🛠 Actively Working With:</h2>
 <div align="left">
-    <img width="64" height="64" src="https://img.icons8.com/dusk/100/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/>
+    <img width="64" height="64" src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/36/external-vuejs-an-open-source-            javascript-framework-for-building-user-interfaces-and-single-page-applications-logo-green-tal-revivo.png" alt="external-vuejs-an-open     -source-javascript-framework-for-building-user-interfaces-and-single-page-applications-logo-green-tal-revivo"/>
     <img width="64" height="64" src="https://img.icons8.com/dusk/100/javascript-logo.png" alt="javascript-logo"/>
     <img width="64" height="64" src="https://img.icons8.com/dusk/100/html-5.png" alt="html-5"/>
     <img width="64" height="64" src="https://img.icons8.com/dusk/100/css3.png" alt="css3"/>
+    <img width="64" height="64" src="https://img.icons8.com/plasticine/100/tailwind_css.png" alt="tailwind_css"/>
+    <img width="64" height="64" src="https://img.icons8.com/dusk/100/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/>
+    <img width="64" height="64" src="https://img.icons8.com/plasticine/100/c-programming.png" alt="c-programming"/>
+    <img width="64" height="64" src="https://img.icons8.com/nolan/64/c-plus-plus-logo.png" alt="c-plus-plus-logo"/>
+    <img width="64" height="64" src="https://img.icons8.com/plasticine/100/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
+    <img width="64" height="64" src="https://img.icons8.com/plasticine/100/intellij-idea.png" alt="intellij-idea"/>
+    <img width="64" height="64" src="https://img.icons8.com/plasticine/100/figma.png" alt="figma"/>
+    <img width="64" height="64" src="https://img.icons8.com/plasticine/100/adobe-photoshop.png" alt="adobe-photoshop"/>
+    <img width="64" height="64" src="https://img.icons8.com/plasticine/100/adobe-illustrator.png" alt="adobe-illustrator"/>
+    <img width="64" height="64" src="https://img.icons8.com/plasticine/100/adobe-lightroom.png" alt="adobe-lightroom"/>
 </div>
 
 
 <h2 align="left">Learning:</h2>
+<div align="left">
+    <img width="64" height="64" src="https://img.icons8.com/dusk/64/python.png" alt="python"/>
+    <img width="64" height="64" src="https://img.icons8.com/dusk/64/pycharm.png" alt="pycharm"/>
+    <img width="64" height="64" src="https://img.icons8.com/plasticine/100/github.png" alt="github"/>
+</div>
 
 <h2 align="left">Plan To Learn:</h2>
 
