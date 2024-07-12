@@ -11,7 +11,7 @@
 
 <h2 align="left">🛠 Actively Working With:</h2>
 <div align="left">
-    <img width="64" height="64" src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/36/external-vuejs-an-open-source-            javascript-framework-for-building-user-interfaces-and-single-page-applications-logo-green-tal-revivo.png" alt="external-vuejs-an-open     -source-javascript-framework-for-building-user-interfaces-and-single-page-applications-logo-green-tal-revivo"/>
+   <img width="64" height="64" src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/72/external-vuejs-an-open-source-javascript-framework-for-building-user-interfaces-and-single-page-applications-logo-green-tal-revivo.png" alt="external-vuejs-an-open-source-javascript-framework-for-building-user-interfaces-and-single-page-applications-logo-green-tal-revivo"/>
     <img width="64" height="64" src="https://img.icons8.com/dusk/100/javascript-logo.png" alt="javascript-logo"/>
     <img width="64" height="64" src="https://img.icons8.com/dusk/100/html-5.png" alt="html-5"/>
     <img width="64" height="64" src="https://img.icons8.com/dusk/100/css3.png" alt="css3"/>
