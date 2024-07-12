@@ -6,7 +6,7 @@
 </div>
 
 <img width="36" height="36" src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/36/external-vuejs-an-open-source-javascript-framework-for-building-user-interfaces-and-single-page-applications-logo-green-tal-revivo.png" alt="external-vuejs-an-open-source-javascript-framework-for-building-user-interfaces-and-single-page-applications-logo-green-tal-revivo"/>
-<a  href="https://icons8.com/icon/6WRLrWVAXidL/vue.js-an-open-source-javascript-framework-for-building-user-interfaces-and-single-page-applications">Vue.js an open-source JavaScript framework for building user interfaces and single-page applications</a> icon by <a href="https://icons8.com">Icons8</a>
+<img width="100" height="100" src="https://img.icons8.com/clouds/100/python.png" alt="python"/>
 
 ###
 <h2 align="left">😎My Stats :</h2>
