@@ -8,6 +8,7 @@
 
 
 <h2 align="left">About Me:</h2>
+<p align="left">Hello! <br/>Im Mostafa aka Legend, a creative and passionate FrontEnd developer, also an UI/UX and Graphic designer<br/>I've just started programming professionally, but evolving quckly. currently I'm working on some self projects and learning python</p>
 
 <h2 align="left">🛠 Actively Working With:</h2>
 <div align="left">
@@ -67,6 +68,7 @@
 
 ###
 
+ icons by <a href="https://icons8.com">Icons8</a>
 
 <!--
 **Legend1381/Legend1381** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
